@@ -62,6 +62,17 @@ local plugins = {
       require("hlargs").setup({ color = "#db730f" })
     end,
   },
+  {
+    "ThePrimeagen/harpoon",
+    branch = "harpoon2",
+    dependencies = { "nvim-lua/plenary.nvim" },
+  },
+  {
+    "olimorris/onedarkpro.nvim",
+  },
+  {
+    "HiPhish/rainbow-delimiters.nvim",
+  },
 }
 
 return plugins
