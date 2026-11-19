@@ -1,6 +1,6 @@
 vim.pack.add({ 'https://github.com/neovim/nvim-lspconfig' })
 
-vim.lsp.enable({ "lua_ls", "pyright", "ruff", "gh-actions-language-server" })
+vim.lsp.enable({ "lua_ls", "pyright", "ruff", "gh-actions-language-server", "bsl-language-server"})
 -- Эта штука позволяет избавиться от предупреждений vim
 vim.lsp.config("lua_ls", {
 	settings = {
@@ -27,3 +27,4 @@ vim.lsp.config('pyright', {
 })
 
 vim.lsp.config('gh-actions-language-server', {})
+vim.lsp.config('bsl-language-server', {})

@@ -33,6 +33,10 @@
       "rev": "f1e186e44d3b7f9ae918008e2c28ce37c6023d2d",
       "src": "https://github.com/lukas-reineke/indent-blankline.nvim"
     },
+    "keymap-amend.nvim": {
+      "rev": "b8bf9d820878d5497fdd11d6de55dea82872d98e",
+      "src": "https://github.com/anuvyklack/keymap-amend.nvim"
+    },
     "lualine.nvim": {
       "rev": "221ce6b2d999187044529f49da6554a92f740a96",
       "src": "https://github.com/nvim-lualine/lualine.nvim"
@@ -61,6 +65,10 @@
       "rev": "23e7e9f883d01289ebd90e98025acc860ea26366",
       "src": "https://github.com/danymat/neogen"
     },
+    "neowords.nvim": {
+      "rev": "47a38cd4aa3118a6be3f64ac4987a8483bd2e98a",
+      "src": "https://github.com/backdround/neowords.nvim"
+    },
     "nui.nvim": {
       "rev": "10fc361835c856ba4233ef5ea135b919bf3dce97",
       "src": "https://github.com/MunifTanjim/nui.nvim"
@@ -72,10 +80,6 @@
     "nvim-notify": {
       "rev": "8701bece920b38ea289b457f902e2ad184131a5d",
       "src": "https://github.com/rcarriga/nvim-notify"
-    },
-    "nvim-spider": {
-      "rev": "38f74f733734566bec3b23a9dcf968a5a5559cd6",
-      "src": "https://github.com/chrisgrieser/nvim-spider"
     },
     "nvim-spider-utf8": {
       "rev": "27e5483df9dbfe0fe3c2c527f2c2dec207ce6f2a",
@@ -93,6 +97,10 @@
       "rev": "de9f0f3dbdab1952f136dc7bd67ff3bafdf994da",
       "src": "https://github.com/nvim-treesitter/nvim-treesitter"
     },
+    "nvim-treesitter-context": {
+      "rev": "8decd73460d26ef0a0befb745d022dd1fc2c38b8",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter-context"
+    },
     "nvim-web-devicons": {
       "rev": "5f032a85be210cd1c6ac98861eb3b187ff3bd5eb",
       "src": "https://github.com/nvim-tree/nvim-web-devicons"
@@ -104,6 +112,10 @@
     "plenary.nvim": {
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
       "src": "https://github.com/nvim-lua/plenary.nvim.git"
+    },
+    "ruscmd.nvim": {
+      "rev": "da3b3d4cf86b1e8e6495713f2ee3223d7cc9a53f",
+      "src": "https://github.com/aveplen/ruscmd.nvim"
     },
     "smooth-resize.nvim": {
       "rev": "5218aedc1dedb9c0c0f105b73f46e601f712a786",
